@@ -1,0 +1,10 @@
+DATA SOURCE :
+
+1. Supermarket Sales Dataset (Kaggle) : 
+https://www.kaggle.com/code/muhdaniyal/supermarket-sales-analysis-indonesia 
+
+2. Online Retail Dataset (UCI) : 
+https://archive.ics.uci.edu/dataset/352/online+retail  
+
+3. BigMart Sales Dataset (Kaggle) : 
+https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data 
