@@ -1,0 +1,4 @@
+models/*.pkl
+data/*.xlsx
+__pycache__/
+.ipynb_checkpoints/
