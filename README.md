@@ -25,6 +25,7 @@ RetailMiner is a data mining–based analytics platform that extracts hidden kno
 - Temporal mining
 
 🏗️ Project Structure
+/
 RetailMiner/
 │
 ├── app/                # Streamlit dashboard
@@ -36,6 +37,7 @@ RetailMiner/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+/
 
 ▶️ How to Run
 
