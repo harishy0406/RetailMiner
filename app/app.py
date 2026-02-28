@@ -132,7 +132,7 @@ elif menu == "Model Info":
 
     ### 🔹 Temporal Mining
     - Peak shopping hours  
-    - Monthly trends  
+    - Monthly trends   
     - Revenue spikes  
     """)
 
