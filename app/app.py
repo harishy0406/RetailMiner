@@ -135,7 +135,6 @@ elif menu == "Model Info":
     - Monthly trends   
     - Revenue spikes  
     """)
-
     st.subheader("📁 Project Outputs")
 
     st.write("Anomalies:", anomalies.shape)
