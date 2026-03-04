@@ -64,7 +64,6 @@ if menu == "Dashboard":
 # ---------------- ANOMALY ---------------- #
 
 elif menu == "Anomaly Analytics":
-
     st.subheader("⚠️ Anomaly Distribution")
 
     fig = px.histogram(anomalies,x="InvoiceTotal",nbins=50,title="Abnormal Invoice Amounts")
