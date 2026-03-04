@@ -75,7 +75,6 @@ elif menu == "Anomaly Analytics":
 # ---------------- CLUSTERS ---------------- #
 
 elif menu == "Customer Segmentation":
-
     st.subheader("👥 Customer Segments")
 
     fig = px.scatter(clusters,x="Frequency",y="Monetary",color="Cluster")
