@@ -47,7 +47,7 @@ pip install -r requirements.txt
 streamlit run app/app.py
 ```
 
-📊 Dashboard Modules
+📊 Dashboard Modules 
 
 - Overview metrics
 - Anomaly analytics

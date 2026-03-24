@@ -8,7 +8,7 @@ st.title("🛒 RetailMiner – Supermarket Transaction Intelligence Platform")
 
 # ---------------- LOAD DATA ---------------- #
 
-@st.cache_data
+@st.cache_data 
 def load_data():
     anomalies = pd.read_csv(r"H:\PROJECTS\AIML PROJECTS\RetailMiner\outputs\anomalies.csv")
     clusters = pd.read_csv(r"H:\PROJECTS\AIML PROJECTS\RetailMiner\outputs\clusters.csv")
