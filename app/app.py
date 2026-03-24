@@ -36,7 +36,7 @@ menu = st.sidebar.radio(
 
 # ---------------- DASHBOARD ---------------- #
 
-if menu == "Dashboard":
+if menu == "Dashboard": 
 
     st.subheader("📊 Key Metrics")
 
