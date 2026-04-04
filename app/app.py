@@ -85,7 +85,7 @@ elif menu == "Customer Segmentation":
 
     st.dataframe(clusters)
 
-# ---------------- MARKET BASKET ---------------- #
+# ---------------- MARKET BASKET ---------------- # 
 
 elif menu == "Market Basket":
 
