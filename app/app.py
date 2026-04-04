@@ -83,7 +83,7 @@ elif menu == "Customer Segmentation":
     fig2 = px.histogram(clusters,x="Cluster",title="Cluster Count")
     st.plotly_chart(fig2,width="stretch")
 
-    st.dataframe(clusters)
+    st.dataframe(clusters) 
 
 # ---------------- MARKET BASKET ---------------- # 
 
