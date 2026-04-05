@@ -95,7 +95,7 @@ elif menu == "Market Basket":
     st.dataframe(top_rules[['antecedents','consequents','support','confidence','lift']])
 
     fig = px.bar(top_rules,x="lift",y=top_rules.index.astype(str),orientation="h",title="Top Lift Rules")
-    st.plotly_chart(fig,width="stretch")
+    st.plotly_chart(fig,width="stretch") 
 
 # ---------------- SEASONAL ---------------- #
 
@@ -128,7 +128,7 @@ elif menu == "Model Info":
     - Purpose: Market basket analysis  
     - Output: Association rules  
 
-    ### 🔹 Temporal Mining
+    ### 🔹 Temporal Mining 
     - Peak shopping hours  
     - Monthly trends   
     - Revenue spikes  
